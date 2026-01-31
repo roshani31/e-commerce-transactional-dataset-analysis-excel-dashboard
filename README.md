@@ -5,7 +5,7 @@ _A high-impact data analytics project focused on transforming raw e-commerce tra
 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-This project shows how to build a complete **Master Excel Dashboard** from scratch. We start with raw e-commerce data (over 51,000 rows) and move through cleaning the data, calculating numbers with Pivot Tables, and designing a beautiful, easy-to-use screen to track sales and customer happy scores.
+Here with raw e-commerce data (over 51,000 rows) and move through cleaning the data, calculating numbers with Pivot Tables, and designing a beautiful, easy-to-use screen to track sales and customer happy scores.
 
 ---
 <h2><a class="anchor" id="business-questions--kpis"></a>🔍 Business Questions & KPIs</h2>
